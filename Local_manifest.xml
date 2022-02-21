@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="Techy0302" fetch="https://github.com"/>
+  <remote name="maxx0021" fetch="https://github.com"/>
 
-  <project name="Techy0302/android_device_samsung_j7elte" path="device/samsung/j7elte" remote="Techy0302" revision="lineage-18.1" />
-  <project name="Techy0302/android_device_samsung_universal7580-common" path="device/samsung/universal7580-common" remote="Techy0302" revision="lineage-18.1" />
-  <project name="Techy0302/android_hardware_samsung" path="hardware/samsung" remote="Techy0302" revision="lineage-18.1" />
-  <project name="Techy0302/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="Techy0302" revision="lineage-18.1" />
-  <project name="Techy0302/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="Techy0302" revision="lineage-18.1" />
-  <project name="Techy0302/android_hardware_samsung_slsi_exynos7580" path="hardware/samsung_slsi/exynos7580" remote="Techy0302" revision="lineage-18.1" />
-  <project name="Techy0302/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="Techy0302" revision="lineage-18.1" />
-  <project name="Techy0302/android_kernel_samsung_universal7580" path="kernel/samsung/universal7580" remote="Techy0302" revision="lineage-18.1" />
-  <project name="Techy0302/proprietary_vendor_samsung" path="vendor/samsung" remote="Techy0302" revision="lineage-18.1" />
+  <project name="maxx0021/android_device_samsung_j7elte" path="device/samsung/j7elte" remote="maxx0021" revision="lineage-18.1" />
+  <project name="maxx0021/android_device_samsung_universal7580-common" path="device/samsung/universal7580-common" remote="maxx0021" revision="lineage-18.1" />
+  <project name="maxx0021/android_hardware_samsung" path="hardware/samsung" remote="maxx0021" revision="lineage-18.1" />
+  <project name="maxx0021/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="maxx0021" revision="lineage-18.1" />
+  <project name="maxx0021/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="maxx0021" revision="lineage-18.1" />
+  <project name="maxx0021/android_hardware_samsung_slsi_exynos7580" path="hardware/samsung_slsi/exynos7580" remote="maxx0021" revision="lineage-18.1" />
+  <project name="maxx0021/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="maxx0021" revision="lineage-18.1" />
+  <project name="maxx0021/android_kernel_samsung_universal7580" path="kernel/samsung/universal7580" remote="maxx0021" revision="lineage-18.1" />
+  <project name="maxx0021/proprietary_vendor_samsung" path="vendor/samsung" remote="maxx0021" revision="lineage-18.1" />
 </manifest>
