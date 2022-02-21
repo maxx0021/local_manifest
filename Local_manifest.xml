@@ -2,7 +2,7 @@
 <manifest>
   <remote name="maxx0021" fetch="https://github.com"/>
 
-  <project name="maxx0021/android_device_samsung_j7elte" path="device/samsung/j7elte" remote="maxx0021" revision="lineage-18.1" />
+  <project name="maxx0021/android_device_samsung_j7elte" path="device/samsung/j7elte" remote="maxx0021" revision="awaken-11" />
   <project name="maxx0021/android_device_samsung_universal7580-common" path="device/samsung/universal7580-common" remote="maxx0021" revision="lineage-18.1" />
   <project name="maxx0021/android_hardware_samsung" path="hardware/samsung" remote="maxx0021" revision="lineage-18.1" />
   <project name="maxx0021/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="maxx0021" revision="lineage-18.1" />
